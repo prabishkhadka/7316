@@ -1,0 +1,11 @@
+geopandas
+matplotlib
+pandas
+rasterio
+rasterstats
+scikit-image
+scikit-learn
+scipy
+jupyterlab
+cartopy
+rtree
